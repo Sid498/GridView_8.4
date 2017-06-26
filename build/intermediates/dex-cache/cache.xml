@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_334df8ecd9308de81a4c37572345f0aefd8a123f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3e9607013e975868b5b1fc4f190fca4ab00202f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_c73115790b8f63c0eb42fccc5aa87eddd62b320d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_dffd33687c23f6077593c0ca363d0a0defa4de88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9618a4d99115bbdc90a062f3a900f9dc8daa3d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_907cbe9e552cbbdf5d30bb93928bf4c5ca4e5389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_c34e0ff08b2fe8341dd82688c85e763d0b911132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_94cd2a69fde5e8aa2e691019ddd9987ec9567ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_60a8a163c81090351b11ca3b72ac7db5654df618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f3f541da75f2518bfd1d01f8d04c2a2e0e992c1">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_53ada99729a95c3a576e4a22fc758bfc43ec8b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_d38238cd68a03f3cf358aadc0412ba5ab618c520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_dada8c0b80d6f44273217f1b321d0f3381396bf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8790ff80af99481bbfc50e893a5039a9ba590cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a16af5c88a093b297bd5eaba05ff57e0441338c">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f358366fed1f42de359c319cfe093429cbf997a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4678f44543eacefe77afe0f9f477ee734bb7e055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ebd82f07f4d74ee55b0b5cc7d28988d9fb2ba705">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2926060b33564fff50396848f71a077d12c40d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_129de7ffcd0f79a898a3f69d991bf35066eab21a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_8a46855dca2cba1498b51532c3e723d9675f41c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cda0bc2dd8a2c7bf66b34b58625595e6f86a85a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_eb9f58e17edc396a916eb53fa97651469af8f8d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccbd1e35d50c8cb919ba11d3e800f9c93f2882ce">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_241145af5c5c8923fb890a66ddcaf218735ce6db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c94f7b76bee5fbb60f2776335a3e1bfacf370da6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_16b927aa0dd2b2321d15d940863d62ef4fef4cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_735a1c477fd61a857028be59be79a4b6449ddb12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_6741a5d9e894c144a2a81972492be4e3f2361003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_dc8d26f4e36a3bceedb4270964cd08e51c824f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e376e2327ba9287c305d3999e0f0f7e41f23bfb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0717adb9d1cec1bf28b098bde0ec06240aad9c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_24ac05a7b171ed8fed616d9e3e4db9fd6561ecd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_71eeb37bf182a08051608a236295182af444b474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ff84fc699687432e537fa381599830c1491c0a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c66175db92b8c2afe4d7762b1fcdc3e6bafa50a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="G:\SID\NEW_ANDROID\Assignments\GridView_8.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_25b8caf5eb0da85a6d9122bfb4d3722c13534dd5\classes.dex" />
+    </item>
+
+</items>
